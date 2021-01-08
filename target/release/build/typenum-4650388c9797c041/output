@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/iot_dev/Documents/Rust_prac/rust_web/simple_iot_api/target/release/build/typenum-4650388c9797c041/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/iot_dev/Documents/Rust_prac/rust_web/simple_iot_api/target/release/build/typenum-4650388c9797c041/out/op.rs

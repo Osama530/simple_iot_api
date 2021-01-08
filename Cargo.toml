@@ -1,0 +1,14 @@
+[package]
+name = "simple_iot_api"
+version = "0.1.0"
+authors = ["osama530 <osamaqamar93@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rocket = "*"
+rocket_contrib = "*"
+serde = "*"
+serde_derive = "*"
+#serde_json = "*"

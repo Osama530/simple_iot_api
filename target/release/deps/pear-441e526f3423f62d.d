@@ -1,0 +1,13 @@
+/home/iot_dev/Documents/Rust_prac/rust_web/simple_iot_api/target/release/deps/pear-441e526f3423f62d.rmeta: /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/lib.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/macros.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/input.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/result.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/debug.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/combinators.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/parsers.rs
+
+/home/iot_dev/Documents/Rust_prac/rust_web/simple_iot_api/target/release/deps/libpear-441e526f3423f62d.rlib: /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/lib.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/macros.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/input.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/result.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/debug.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/combinators.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/parsers.rs
+
+/home/iot_dev/Documents/Rust_prac/rust_web/simple_iot_api/target/release/deps/pear-441e526f3423f62d.d: /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/lib.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/macros.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/input.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/result.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/debug.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/combinators.rs /home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/parsers.rs
+
+/home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/lib.rs:
+/home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/macros.rs:
+/home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/input.rs:
+/home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/result.rs:
+/home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/debug.rs:
+/home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/combinators.rs:
+/home/iot_dev/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/parsers.rs:
